@@ -1,5 +1,4 @@
-### Hi 👋 
-### Ben Ayşegül
+### Merhaba, ben Ayşegül👋 
 #### Bilgisayar mühendisliği öğrencisiyim
 
 - 🔭 I’m currently working on this page. 
